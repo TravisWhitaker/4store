@@ -22,7 +22,7 @@
 
 #define FS_MAX_SEGMENTS 256
 
-#define FS_TMP_PATH "/tmp"
+#define FS_TMP_PATH "/media/ephemeral0"
 
 #define FS_FILE_MODE 0600
 

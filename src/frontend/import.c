@@ -41,7 +41,7 @@
 
 #define RES_BUF_SIZE 256
 #define QUAD_BUF_SIZE 10000
-#define FS_CHUNK_SIZE 1000000000
+#define FS_CHUNK_SIZE 250000000
 
 #define MEMBER_PREFIX "http://www.w3.org/1999/02/22-rdf-syntax-ns#_"
 
